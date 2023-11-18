@@ -1,1 +1,1 @@
-:)
+open dist folder
